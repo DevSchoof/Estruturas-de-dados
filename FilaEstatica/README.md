@@ -1,8 +1,22 @@
-## Getting Started
+## Fila Estática
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Implementação de uma fila estática em Java.
 
-## Folder Structure
+## Descrição
+Fila estáticas são estruturas utilizadas meramente para estudo de Filas, pois elas possuem uma grave limitação para uso real, poiis um espaço uma vez utilizado, não pode ser reaproveitado.
+Mais adiante veremos soluções para esta situação.
+
+## Funcionamento
+
+Em breve...
+
+## Principais métodos
+
+Em breve...
+
+
+
+## Estrutura de Pastas
 
 The workspace contains two folders by default, where:
 
