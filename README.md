@@ -8,7 +8,9 @@ O repositório foca nos conceitos fundamentais a partir de estruturas lineares e
 
 - [x] Pilha (Stack): Lógica LIFO (Last-In, First-Out).
 
-- [x] Fila (Queue): Lógica FIFO (First-In, First-Out).
+- [x] FilaEstática (Queue): Lógica FIFO (First-In, First-Out).
+
+- [ ] FilaCircular (Queue): Lógica FIFO (First-In, First-Out).
 
 - [ ] Tabela Hash: Mapeamento de chaves e tratamento de colisões.
 
