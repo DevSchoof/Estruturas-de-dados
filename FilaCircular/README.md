@@ -1,11 +1,13 @@
-## Fila Estática
+## Fila Circular
 
-Implementação de uma fila estática em Java.
+Implementação de uma fila circular em Java.
+
+
 
 ## Descrição
 
-Fila estáticas são estruturas utilizadas meramente para estudo de Filas, pois elas possuem uma grave limitação para uso real, poiis um espaço uma vez utilizado, não pode ser reaproveitado.
-Mais adiante veremos soluções para esta situação.
+Fila circular é uma evolução da fila estática. Ela resolve o problema de ser uma estrutura finita e limitada, proporcionando reaproveitamento de espaços de memória, mas a um elevado custo de recursos do sistema.
+Mais adiante veremos uma solução apra isto.
 
 ## Funcionamento
 
@@ -15,9 +17,9 @@ Em breve...
 
 Em breve...
 
-
-
 ## Estrutura de Pastas
+
+
 
 The workspace contains two folders by default, where:
 
