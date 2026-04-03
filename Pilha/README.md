@@ -1,8 +1,18 @@
-## Getting Started
+# Pilha - Implementação de uma Pilha em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+Pilha é uma estrutura de dados linear que segue o princípio LIFO – Last In, First Out (o último a entrar é o primeiro a sair). Imagine uma pilha de pratos: você sempre coloca um novo prato no topo e, quando precisa de um prato, retira o que está no topo.
+
+## Funcionamento
+
+Em breve...
+
+## Principais Métodos
+
+Em breve...
+
+## Estrutura de Pastas
 
 The workspace contains two folders by default, where:
 

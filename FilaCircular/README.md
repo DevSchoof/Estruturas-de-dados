@@ -1,6 +1,4 @@
-## Fila Circular
-
-Implementação de uma fila circular em Java.
+# Fila Circular - Implementação de uma Fila Circular em Java.
 
 
 

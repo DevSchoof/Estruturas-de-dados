@@ -1,6 +1,4 @@
-## Fila Estática
-
-Implementação de uma fila estática em Java.
+# Fila Estática - Implementação de uma Fila Estática em Java.
 
 ## Descrição
 
@@ -11,7 +9,7 @@ Mais adiante veremos soluções para esta situação.
 
 Em breve...
 
-## Principais métodos
+## Principais Métodos
 
 Em breve...
 
