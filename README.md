@@ -1,4 +1,6 @@
-### Implementação de Estruturas de Dados em Java ☕
+# Implementação de Estruturas de Dados em Java ☕
+
+## 📝 Descrição
 
 Este repositório centraliza as implementações de estruturas de dados desenvolvidas durante o curso de Análise e Desenvolvimento de Sistemas (IFSP - Bragança Paulista). O foco aqui é o desenvolvimento de algoritmos de baixo nível, explorando lógica de ponteiros, alocação de memória e eficiência.
 
@@ -10,7 +12,7 @@ O repositório foca nos conceitos fundamentais a partir de estruturas lineares e
 
 - [x] FilaEstática (Queue): Lógica FIFO (First-In, First-Out).
 
-- [ ] FilaCircular (Queue): Lógica FIFO (First-In, First-Out).
+- [x] FilaCircular (Queue): Lógica FIFO (First-In, First-Out).
 
 - [ ] Tabela Hash: Mapeamento de chaves e tratamento de colisões.
 
@@ -24,7 +26,9 @@ O repositório foca nos conceitos fundamentais a partir de estruturas lineares e
 
 - /Pilha: Códigos fonte da implementação de pilhas.
 
-- /Fila: Códigos fonte da implementação de filas.
+- /FilaEstática: Códigos fonte da implementação de filas estáticas.
+
+- /FilaCircular: Códigos fonte da implementação de filas circulares.
 
 - ...
 
